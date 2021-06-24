@@ -1,2 +1,2 @@
-# auto_complete_react
+# Auto-Complete React
 React + Redux + React-Mock + Reactstrap + Enzyme
